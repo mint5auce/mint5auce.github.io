@@ -1,8 +1,8 @@
 title: Jon Hadley
-description: Technical Lead, Lobster Pictures
+description: Technology Team Lead
 google_analytics: UA-49873606-1
 show_downloads: true
-theme: jekyll-theme-hacker
+theme: jamigibbs/phantom
 
 gems:
   - jekyll-mentions
