@@ -1,8 +1,10 @@
-Developer and technologist with over 15 years experience in the web and film industries.
+Hello. I'm Jon Hadley, a Bristol based team lead with over twenty years commercial experience in the technology industry. 
 
-I currently head the New Product Development team at [Lobster Pictures](http://www.lobsterpictures.tv/), bringing innovative ideas to life across a variety of cameras, hardware and software. We're also responsible for keeping our world-wide mission-critical systems and infrastructure online 24/7.
+Over the last decade I've managed software development teams working on web applications, embedded systems and electronic design. I've also conducted WCAG & BS8878 compliant accessibility audits for a range of organisations.
 
-Key past roles include working with top UK charities as Head of Technology at [Positive](http://positivestudio.co.uk) and web production and IT support at multi Academy Award wining [Aardman Animations](http://www.aardman.com/).
+I consider myself platform agnostic, commercially aware and equally comfortable communicating with colleagues, stakeholders, suppliers and clients.
+
+Some key past roles include working with top UK charities as Head of Technology at [Positive](http://positivestudio.co.uk) and web production and IT support at multi Academy Award wining [Aardman Animations](http://www.aardman.com/).
 
 Man of science, more or less agog.
 
