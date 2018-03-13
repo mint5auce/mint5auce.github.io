@@ -2,7 +2,7 @@ title: Jon Hadley
 description: Technology Team Lead
 google_analytics: UA-49873606-1
 show_downloads: true
-theme: nielsenramon/chalk
+theme: heiswayi/the-plain
 
 gems:
   - jekyll-mentions
