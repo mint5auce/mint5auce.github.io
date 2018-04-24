@@ -1,6 +1,6 @@
 Hello. I'm Jon Hadley, a Bristol based team lead with over twenty years commercial experience in the technology industry. 
 
-Over the last decade I've managed software development teams working on web applications, embedded systems and electronic design. I've also conducted WCAG & BS8878 compliant accessibility audits for a range of organisations.
+In the last decade I've managed software development teams working on web applications, embedded systems and electronic design. I've also conducted WCAG & BS8878 compliant accessibility audits for a range of organisations.
 
 I consider myself platform agnostic, commercially aware and equally comfortable communicating with colleagues, stakeholders, suppliers and clients.
 
@@ -8,4 +8,4 @@ Some key past roles include working with top UK charities as Head of Technology 
 
 Man of science, more or less agog.
 
-[Twitter](http://twitter.com/mintsauce) | [LinkedIn](http://uk.linkedin.com/in/jonhadley/) | [GitHub](https://github.com/mint5auce) | [Amazon Wish List](http://www.amazon.co.uk/registry/wishlist/36N9RPCC0L6C3)
+[Twitter](http://twitter.com/mintsauce) | [LinkedIn](http://uk.linkedin.com/in/jonhadley/) | [GitHub](https://github.com/mint5auce) | [Goodreads](http://www.goodreads.com/mintsauce)
