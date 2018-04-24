@@ -1,6 +1,6 @@
 Hello. I'm Jon Hadley, a Bristol based team lead with over twenty years commercial experience in the technology industry. 
 
-In the last decade I've managed software development teams working on web applications, embedded systems and electronic design. I've also conducted WCAG & BS8878 compliant accessibility audits for a range of organisations.
+Over the last decade I've managed software development teams working on web applications, embedded systems and electronic design. I've also conducted WCAG & BS8878 compliant accessibility audits for a range of organisations.
 
 I consider myself platform agnostic, commercially aware and equally comfortable communicating with colleagues, stakeholders, suppliers and clients.
 
