@@ -5,9 +5,16 @@ show_downloads: true
 remote_theme: "mmistakes/minimal-mistakes@4.28.0"
 minimal_mistakes_skin: default
 
+footer:
+  since: 1997
+
+atom_feed:
+  hide: true
+
 author:
   name: Jon Hadley
   avatar: "/assets/images/me-colour-small.png"
+  location: Bristol, UK
   bio: Senior Delivery Leader,<br>AI & Technology
   links:
     - label: Instagram
