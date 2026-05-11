@@ -1,8 +1,33 @@
 title: Jon Hadley
-description: Technology Team Lead
+description: Senior Delivery Leader, AI & Technology
 google_analytics: UA-49873606-1
 show_downloads: true
-theme: jekyll-theme-minima
+remote_theme: "mmistakes/minimal-mistakes@4.28.0"
+minimal_mistakes_skin: default
 
-gems:
+author:
+  name: Jon Hadley
+  avatar: "/assets/images/me-colour-small.png"
+  bio: Senior Delivery Leader,<br>AI & Technology
+  links:
+    - label: Instagram
+      icon: "fab fa-fw fa-instagram"
+      url: "https://www.instagram.com/mint5auc3/"
+    - label: LinkedIn
+      icon: "fab fa-fw fa-linkedin"
+      url: "http://uk.linkedin.com/in/jonhadley/"
+    - label: GitHub
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/mint5auce"
+
+plugins:
+  - jekyll-remote-theme
+  - jekyll-include-cache
   - jekyll-mentions
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - mise.toml
+  - vendor

@@ -1,11 +1,13 @@
-Hello. I'm Jon Hadley, a UK based technology team lead. 
+---
+layout: single
+title: Jon Hadley | Senior Delivery Leader, AI & Technology
+author_profile: true
+---
 
-Over the last twenty years I've managed software development teams working on web applications, embedded systems and electronic design. I've also conducted WCAG & BS8878 compliant accessibility audits for a range of organisations.
+I'm a Bristol-based senior delivery leader with 28 years' experience delivering complex software, cloud, data and digital transformation projects across public and private-sector organisations.
 
-I consider myself platform agnostic, commercially aware and equally comfortable communicating with colleagues, stakeholders, suppliers and clients.
+My recent work focuses on AI-enabled delivery: shaping pragmatic initiatives, helping teams move from experiments to governed implementation, and identifying where new tools can create real operational value. I combine that delivery leadership with technical fluency across Agile, DevOps, IoT, cloud, data platforms and software engineering, with a particular interest in how teams plan, build and assure software through better estimation, risk management, developer tooling, agentic workflows and practical automation.
 
-Some key past roles include Technical Lead at [Lobster Pictures](http://lobsterpictures.tv) and web production at multi Academy Award wining [Aardman Animations](http://www.aardman.com/).
+Across my career I've led multi-disciplinary teams, managed high-value programmes, coached pragmatic Agile delivery, and worked with senior stakeholders in regulated environments. My background spans emergency-services cloud platforms, digital vetting, SDLC modernisation, IoT data discovery, connected hardware products and large-scale software delivery.
 
-Man of science, more or less agog.
-
-[Twitter](http://twitter.com/mintsauce) | [Instagram](https://www.instagram.com/mint5auc3/) | [LinkedIn](http://uk.linkedin.com/in/jonhadley/)
+At heart, I'm interested in the interface between delivery, engineering and emerging technology: helping teams use modern tools well, make better decisions, and deliver useful, reliable and sustainable systems.
