@@ -1,5 +1,6 @@
 title: Jon Hadley
 description: Senior Delivery Leader, AI & Technology
+url: "https://jon-hadley.com"
 google_analytics: UA-49873606-1
 show_downloads: true
 remote_theme: "mmistakes/minimal-mistakes@4.28.0"
@@ -13,16 +14,16 @@ atom_feed:
 
 author:
   name: Jon Hadley
-  avatar: "/assets/images/me-colour-small.png"
+  avatar: "/assets/images/me-colour-small.jpg"
   location: Bristol, UK
   bio: Senior Delivery Leader,<br>AI & Technology
   links:
     - label: Instagram
       icon: "fab fa-fw fa-instagram"
-      url: "https://www.instagram.com/mint5auc3/"
+      url: "https://www.instagram.com/mint5auce/"
     - label: LinkedIn
       icon: "fab fa-fw fa-linkedin"
-      url: "http://uk.linkedin.com/in/jonhadley/"
+      url: "https://www.linkedin.com/in/jonhadley"
     - label: GitHub
       icon: "fab fa-fw fa-github"
       url: "https://github.com/mint5auce"
