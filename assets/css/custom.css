@@ -1,0 +1,19 @@
+.sidebar__cocktail {
+  position: fixed;
+  top: var(--cocktail-top, 100vh);
+  right: var(--cocktail-right-offset, 1em);
+  z-index: 1;
+  pointer-events: none;
+  margin: 0;
+}
+
+.page__inner-wrap {
+  padding-bottom: calc(82.5px + 2em);
+}
+
+.sidebar .sidebar__cocktail img {
+  display: block;
+  width: auto;
+  height: 82.5px;
+  image-rendering: pixelated;
+}
