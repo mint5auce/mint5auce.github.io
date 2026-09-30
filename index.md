@@ -1,6 +1,6 @@
 ---
 layout: single
-title: Jon Hadley | Senior Delivery Leader, AI & Technology
+title: Jon Hadley | Senior Delivery Leader, Technology & AI
 author_profile: true
 ---
 
