@@ -7,6 +7,16 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
         <title>WTHz-D</title>
         <item>
             <title>0.1.0</title>
+            <pubDate>Fri, 02 Oct 2026 22:51:45 +0100</pubDate>
+            <sparkle:channel>alpha</sparkle:channel>
+            <sparkle:version>4</sparkle:version>
+            <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
+            <sparkle:releaseNotesLink sparkle:edSignature="fiffuebCPfD5MIXj8W2zgHyIk/maX6na62agIvb1j5AVFEYmYQWjEvPHQJJqe3lR/ax/bpiSvq27xlKQ2T+UBA==" sparkle:length="4351">https://mint5auce.github.io/wthz-d/updates/WTHz-D-0.1.0-alpha.3-macos-arm64.md</sparkle:releaseNotesLink>
+            <enclosure url="https://github.com/mint5auce/wthz-d-releases/releases/download/v0.1.0-alpha.3/WTHz-D-0.1.0-alpha.3-macos-arm64.dmg" length="22117892" type="application/octet-stream" sparkle:edSignature="CNCSzGeU3ZmFWVsSGewuO2z/u2gKhseTvTz6z2r0YmQwfWSYmqOYd27wjbHNjwp9r4WV5FjgEr/O12t7LGpXDg=="/>
+        </item>
+        <item>
+            <title>0.1.0</title>
             <pubDate>Wed, 30 Sep 2026 18:30:51 +0100</pubDate>
             <sparkle:channel>alpha</sparkle:channel>
             <sparkle:version>3</sparkle:version>
@@ -28,6 +38,6 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: UGChYIIFSpcYpBkiXXIY8guLUGGcVEkz+HhA9kpwxX3lJJIdryTdQGV23kgn1Oixf/ynz67tMV8KMaNNeEwPDQ==
-length: 2362
+edSignature: cVcj6U9hCYId75ROIyrXPsHUezJ5zl/kedJYuw8Ed6H8oVy6AR2Jg8HxiQnolvroIL1zYsSeIs1030qgMuxhAw==
+length: 3328
 -->
