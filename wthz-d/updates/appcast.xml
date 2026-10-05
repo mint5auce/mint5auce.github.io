@@ -7,6 +7,16 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
         <title>WTHz-D</title>
         <item>
             <title>0.1.0</title>
+            <pubDate>Mon, 05 Oct 2026 11:11:03 +0100</pubDate>
+            <sparkle:channel>alpha</sparkle:channel>
+            <sparkle:version>5</sparkle:version>
+            <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
+            <sparkle:releaseNotesLink sparkle:edSignature="cSFgISPpa3QeJvRkpiwP7Eil5dbLECxGmx2ED7uvZOMsgbLXfXqxGFKH/IVtFuSEIzLL1UqVq0fNwBD4s/S7CQ==" sparkle:length="3730">https://mint5auce.github.io/wthz-d/updates/WTHz-D-0.1.0-alpha.4-macos-arm64.md</sparkle:releaseNotesLink>
+            <enclosure url="https://github.com/mint5auce/wthz-d-releases/releases/download/v0.1.0-alpha.4/WTHz-D-0.1.0-alpha.4-macos-arm64.dmg" length="22173633" type="application/octet-stream" sparkle:edSignature="MYaIp7D+ErCAUd9/0yUTKM9qN/mN4FkfpFuyMTPkjivkU80PAFV13/2jLQbpvKftU2vmfaV2LMIuttBRivrhDQ=="/>
+        </item>
+        <item>
+            <title>0.1.0</title>
             <pubDate>Fri, 02 Oct 2026 22:51:45 +0100</pubDate>
             <sparkle:channel>alpha</sparkle:channel>
             <sparkle:version>4</sparkle:version>
@@ -25,19 +35,9 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
             <sparkle:releaseNotesLink sparkle:edSignature="4cDSWXyA8Yq6e+jEmiHFd7Gf+Q3Z47c44AE2gA4q9MXdXtTir+vUOkKuA+k7wctf/2QvQbm0luyfP1qovPuYDw==" sparkle:length="4451">https://mint5auce.github.io/wthz-d/updates/WTHz-D-0.1.0-alpha.2-macos-arm64.md</sparkle:releaseNotesLink>
             <enclosure url="https://github.com/mint5auce/wthz-d-releases/releases/download/v0.1.0-alpha.2/WTHz-D-0.1.0-alpha.2-macos-arm64.dmg" length="22039254" type="application/octet-stream" sparkle:edSignature="RlKSBxf63J4fPnON1FT834XHP3keFTMu5Auyf9KdxmM6Gf5s6BcMQhqGLMrFcPoA5n7GmFrEMZ5+oqfrY/zgDw=="/>
         </item>
-        <item>
-            <title>0.1.0</title>
-            <pubDate>Mon, 28 Sep 2026 17:27:23 +0100</pubDate>
-            <sparkle:channel>alpha</sparkle:channel>
-            <sparkle:version>2</sparkle:version>
-            <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
-            <sparkle:releaseNotesLink sparkle:edSignature="InbJ8PIpI4l0SfL23gZwTAFZ6rgLu7m/2mBJh/YS3aS5ShKeyPV0U1NxL1e0hXinGmYP0cOuHFk/r8aScBMeDg==" sparkle:length="3413">https://mint5auce.github.io/wthz-d/updates/WTHz-D-0.1.0-alpha.1-macos-arm64.md</sparkle:releaseNotesLink>
-            <enclosure url="https://github.com/mint5auce/wthz-d-releases/releases/download/v0.1.0-alpha.1/WTHz-D-0.1.0-alpha.1-macos-arm64.dmg" length="21737465" type="application/octet-stream" sparkle:edSignature="PQgyX4woCfDNPrZA+2nB5+LpjniAzoCqybmkWGMH2K51VDQytfEjG6DnQ+8ZDAgTnh73cvYGD1DgI5MJr4VvDw=="/>
-        </item>
     </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: cVcj6U9hCYId75ROIyrXPsHUezJ5zl/kedJYuw8Ed6H8oVy6AR2Jg8HxiQnolvroIL1zYsSeIs1030qgMuxhAw==
+edSignature: FF48P7TfneGJV/uNWdG8Tf2N/CGYi4JB/IujELnx9IfI1ZSHZ8+xJ7vPHtpbmCYs08awq3s1vVyXGTwef4d/DA==
 length: 3328
 -->
