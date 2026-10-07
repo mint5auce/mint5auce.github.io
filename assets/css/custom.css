@@ -1,3 +1,7 @@
+.author__urls .author__lab {
+  margin-top: 1.5em;
+}
+
 .sidebar__cocktail {
   position: fixed;
   top: var(--cocktail-top, 100vh);

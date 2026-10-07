@@ -19,6 +19,9 @@ author:
   location: Bristol, UK
   bio: Senior Delivery Leader,<br>Technology & AI
   links:
+    - label: Twitter
+      icon: "fab fa-fw fa-twitter"
+      url: "https://twitter.com/mintsauce"
     - label: Instagram
       icon: "fab fa-fw fa-instagram"
       url: "https://www.instagram.com/mint5auce/"
