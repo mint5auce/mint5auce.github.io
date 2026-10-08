@@ -4,7 +4,7 @@ title: Jon Hadley | Senior Delivery Leader, Technology & AI
 author_profile: true
 ---
 
-I'm a senior technology leader based in Bristol, UK, with 28 years' experience delivering complex software, cloud, data and digital transformation projects across public and private-sector organisations.
+Hello. I'm a senior delivery leader in technology and AI, based in Bristol, UK, with 28 years' experience delivering complex software, cloud, data and digital transformation projects across public and private-sector organisations.
 
 My recent work focuses on AI-enabled delivery: shaping pragmatic initiatives, helping teams move from experiments to governed implementation, and identifying where new tools can create real operational value. I combine that delivery leadership with technical fluency across Agile, DevOps, IoT, cloud, data platforms and software engineering, with a particular interest in how teams plan, build and assure software through better estimation, risk management, developer tooling, agentic workflows and practical automation.
 
